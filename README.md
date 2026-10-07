@@ -1,2 +1,3 @@
-# xr-technical-documentation-vespa-mode
-My contributions regarding documenting water optimizations and C++ refactoring implementation. This includes an experiment designed to showcase the differences between the two versions.
+# Vespa Mode: C++ Refactoring & Custom Water Optimization
+
+> A comparative performance evaluation and technical breakdown of refactoring Unreal Engine 5 (UE5) Event-Tick Blueprints into native C++, alongside custom procedural water material optimizations for Extended Reality (XR) systems.
